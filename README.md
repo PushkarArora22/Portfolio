@@ -6,7 +6,7 @@ This repository contains my portfolio website, where I showcase my technical ski
 
 ## 🌐 Live Portfolio
 
-**[Visit my portfolio](PushkarArora22/Portfolio)**
+**[Visit my portfolio]([PushkarArora22/Portfolio](https://pushkararora22.github.io/Portfolio/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnIA7_2IqoFx9DbWtHL_ugMC4WychDW-EcH2h68BLWeyDSarekq7s4qvdglTI_aem_zpf__pWT_HLxvwxTH7EEUA))**
 
 ## 👨‍💻 About Me
 
@@ -58,4 +58,4 @@ My goal is to build practical, real-world applications and develop strong techni
 
 * **GitHub:** https://github.com/PushkarArora22
 * **LinkedIn:** https://www.linkedin.com/in/pushkar-arora-433609250?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* **Portfolio:** PushkarArora22/Portfolio
+* **Portfolio:** [PushkarArora22/Portfolio](https://pushkararora22.github.io/Portfolio/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnIA7_2IqoFx9DbWtHL_ugMC4WychDW-EcH2h68BLWeyDSarekq7s4qvdglTI_aem_zpf__pWT_HLxvwxTH7EEUA)
